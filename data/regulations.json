@@ -1,0 +1,16 @@
+{
+  "university": "Anna University",
+  "regulation": "2021",
+  "grading_system": {
+    "O": "10 Points (91 - 100%)",
+    "A+": "9 Points (81 - 90%)",
+    "A": "8 Points (71 - 80%)",
+    "B+": "7 Points (61 - 70%)",
+    "B": "6 Points (50 - 60%)",
+    "RA": "Reappearance / Arrears"
+  },
+  "passing_requirements": {
+    "internal_minimum": "50% in internal assessments",
+    "total_minimum": "45% overall to pass a subject"
+  }
+}

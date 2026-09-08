@@ -1,0 +1,22 @@
+{
+  "semester": 7,
+  "department": "B.E. Computer Science and Engineering",
+  "current_subjects": [
+    {
+      "code": "GE3791",
+      "name": "Human Values and Ethics"
+    },
+    {
+      "code": "GE3751",
+      "name": "Human Resource Management"
+    },
+    {
+      "code": "OES351",
+      "name": "Renewable Energy Technologies"
+    },
+    {
+      "code": "CCS335",
+      "name": "IT in Agriculture"
+    }
+  ]
+}

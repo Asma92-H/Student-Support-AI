@@ -1,0 +1,14 @@
+{
+  "notifications": [
+    {
+      "title": "End Semester Examinations",
+      "date": "May / June 2026",
+      "description": "Anna University theory and practical examinations for regulation 2021 are scheduled. Ensure hall tickets are downloaded."
+    },
+    {
+      "title": "Internship Submissions",
+      "date": "July 2026",
+      "description": "All final year students must upload their internship completion reports and project repositories to GitHub and submit proof to the department."
+    }
+  ]
+}

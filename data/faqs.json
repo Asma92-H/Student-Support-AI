@@ -1,0 +1,28 @@
+{
+  "faqs": [
+    {
+      "question": "What is my name and department?",
+      "answer": "Your name is Asma H, and your department is B.E. Computer Science and Engineering (CSE), Final Year / 4th Year, 7th Semester."
+    },
+    {
+      "question": "What are my current semester subjects?",
+      "answer": "Your current 7th-semester subjects are Human Values and Ethics, Human Resource Management, Renewable Energy Technology, and IT in Agriculture."
+    },
+    {
+     "question": "What is my previous semester result and grades?",
+      "answer": "Based on your April/May 2026 results (Register Number: 312322104030): CCS352 (A, PASS), CCS354 (A, PASS), CCS356 (A, PASS), CCS370 (A, PASS), CCS376 (A, PASS), CS3691 (A, PASS), MX3089 (O, PASS), NM062 (O, PASS), and OBT351 (A+, PASS)."
+    },
+    {
+      "question": "What is my CGPA and percentage?",
+      "answer": "Your CGPA is 8.50, and your overall calculated percentage is approximately 80.5%."
+    },
+    {
+      "question": "What is my fee status and details?",
+      "answer": "Your fee status is Paid with no balance. Breakdown: Tuition fees = 50,000, Bus fees = 10,000, and Exam fees = 2,000."
+    },
+    {
+      "question": "How are internals calculated?",
+      "answer": "Internals carry 20 marks based on internal assessment tests, assignments, and attendance, while external end-semester exams carry 80 marks."
+    }
+  ]
+}
